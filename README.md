@@ -24,7 +24,7 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,Django" />
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,mysql,Django" />
 </p>
 
 ### 🤖 AI & ML
