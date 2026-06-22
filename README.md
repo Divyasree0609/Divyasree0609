@@ -40,7 +40,10 @@
 ### 🛠 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma," /> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma," /> 
+</p>
+  <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
 </p>
 
 ---
