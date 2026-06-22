@@ -47,10 +47,12 @@
 
 📌 Featured Projects
 
-🎓 Smart Attendance System
+🎓 **Smart Attendance System**
+
 Face recognition-based automated attendance tracking system.
 
-🔍 Object Identifier
+🔍**Object Identifier**
+
 AI-powered object detection and recognition using Computer Vision.
 
 ---
