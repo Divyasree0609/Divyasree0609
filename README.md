@@ -1,4 +1,4 @@
-##👋 Hi,I'm Divya      
+👋 Hi,I'm Divya      
 ---
   AI & Machine Learning Engineer 
 
