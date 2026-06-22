@@ -52,6 +52,7 @@ Face recognition-based automated attendance tracking system.
 
 🔍 Object Identifier
 AI-powered object detection and recognition using Computer Vision.
+
 ---
 
 
