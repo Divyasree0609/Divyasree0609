@@ -1,17 +1,13 @@
 ##👋 Hi,I'm Divya      
 
-<!--
-**Divyasree0609/Divyasree0609** is a ✨ AI & Machine Learning Engineer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+  AI & Machine Learning Engineer 
 
 - 🔭 I’m currently working on AI/ML Projects
 - 🌱 I’m currently learning Data analytics
 - 👯 I’m looking to collaborate on AI & Machine Learning Projects.
 - 🏆 Active Hackathon Participant and Continuous Learner
 - 🤝 Open to collaborations, internships, and open-source contributions
-
--->
+--->
 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/divyasree09 )
